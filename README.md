@@ -1,6 +1,7 @@
-# Sprite Cutter
+# Sprite Cutter extension
 
 This is a tool to manually create .atlastex texures from a single atlas/spritesheet texture
+I originally forked this repo from noidexe. Good work.
 
 ## How To Use
 
